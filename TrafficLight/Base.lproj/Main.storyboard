@@ -49,7 +49,7 @@
                                     <color key="titleColor" systemColor="labelColor"/>
                                 </state>
                                 <connections>
-                                    <action selector="trafficLightManualButtonDidTap:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0ST-Ar-hg7"/>
+                                    <action selector="trafficLightButtonDidTap:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Blm-ng-yOR"/>
                                 </connections>
                             </button>
                         </subviews>

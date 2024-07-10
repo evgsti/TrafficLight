@@ -44,7 +44,7 @@ final class ViewController: UIViewController {
         trafficLightButtonStyle.setTitle("START", for: .normal)
     }
     
-    @IBAction func trafficLightManualButtonDidTap(_ sender: UIButton) {
+    @IBAction func trafficLightButtonDidTap(_ sender: UIButton) {
         trafficLightButtonStyle.setTitle("NEXT", for: .normal)
         
         lightSwitchNumber += 1
